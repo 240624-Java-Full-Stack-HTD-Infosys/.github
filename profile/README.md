@@ -4,7 +4,7 @@ Trainer: Kyle Plummer
 Email: Kyle.plummer@revature.com
 
 ### Links
- - [Training Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQ0OTJjMTEtOTNiZi00OGEyLTg2Y2MtODgwMjA4MGZmYjA0%40thread.v2/0?context=%7b%22Tid%22%3a%226b63e28a-a8f9-47b5-aa40-97e231215164%22%2c%22Oid%22%3a%2278c973cd-8e35-4076-84ef-13256beed44f%22%7d)
+ - [Training Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2NjY2IwZjktZDNiMi00OWZlLWJkNjAtZTliNmI4YzExMmEw%40thread.v2/0?context=%7b%22Tid%22%3a%226b63e28a-a8f9-47b5-aa40-97e231215164%22%2c%22Oid%22%3a%2278c973cd-8e35-4076-84ef-13256beed44f%22%7d)
  - [RevPro](https://app.revature.com/)
  - [Training Sharepoint](https://revaturetech.sharepoint.com/sites/240624-Reston-JAVAFULLSTACK-HTDINFOS)
  - [Training Team](https://teams.microsoft.com/l/channel/19%3AWcDV9wfP5yiVFOGalRRKp97rssUT-yeRKNNP_oPSFes1%40thread.tacv2/240624-Reston-JAVAFULLSTACK-HTDINFOS?groupId=16982c99-d8b6-4aac-8253-22bd0bdf5cb1&tenantId=76955bbc-806c-4944-9c3a-c7c5692ecf8e&allowXTenantAccess=True&ngc=True)
