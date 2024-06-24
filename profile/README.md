@@ -22,5 +22,5 @@ We will use the following software during training, which will need to be instal
  - [VSCode](https://code.visualstudio.com/download) - Text editor with extensions
  - [DBeaver](https://dbeaver.io/download/) - SQL database administration suite
  - [Postman](https://www.postman.com/downloads/) - API design/testing tool
- - [NodeJS](https://nodejs.org/en/download/)
+ - [NodeJS](https://nodejs.org/en/download/) - Javascript Engine
 
