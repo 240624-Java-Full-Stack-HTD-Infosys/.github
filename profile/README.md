@@ -14,7 +14,7 @@ We will use the following software during training, which will need to be instal
  - [IntelliJ Community](https://www.jetbrains.com/idea/download/#section=windows) - Java IDE
  - [OpenJDK](https://adoptium.net/temurin/releases/) - Java Development Kit
  - [Git Bash](https://git-scm.com/downloads) - Git command line tool
- - [Apache Maven](https://maven.apache.org/download.cgi)
+ - [Apache Maven](https://maven.apache.org/download.cgi) - Java Project Manager
    - [Adding to PATH in Windows](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)
    - [Adding to PATH in OSX](https://www.architectryan.com/2012/10/02/add-to-the-path-on-mac-os-x-mountain-lion/)
 
