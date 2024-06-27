@@ -8,6 +8,7 @@ Email: Kyle.plummer@revature.com
  - [RevPro](https://app.revature.com/)
  - [Training Sharepoint](https://revaturetech.sharepoint.com/sites/240624-Reston-JAVAFULLSTACK-HTDINFOS)
  - [Training Team](https://teams.microsoft.com/l/channel/19%3AWcDV9wfP5yiVFOGalRRKp97rssUT-yeRKNNP_oPSFes1%40thread.tacv2/240624-Reston-JAVAFULLSTACK-HTDINFOS?groupId=16982c99-d8b6-4aac-8253-22bd0bdf5cb1&tenantId=76955bbc-806c-4944-9c3a-c7c5692ecf8e&allowXTenantAccess=True&ngc=True)
+ - [Labs Repository](https://github.com/240624-Java-Full-Stack-HTD-Infosys/Labs)
 
 ### Environment
 We will use the following software during training, which will need to be installed locally on your machine. We will cover installation and setup of each together. We won't need all of these right away.
