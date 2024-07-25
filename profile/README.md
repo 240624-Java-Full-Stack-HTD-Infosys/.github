@@ -12,6 +12,8 @@ Email: Kyle.plummer@revature.com
  - [QC Study](https://github.com/240624-Java-Full-Stack-HTD-Infosys/Notes/blob/main/QC%20Study/README.md)
  - [P0 Spec](https://github.com/240624-Java-Full-Stack-HTD-Infosys/Kyle-Plummer-P0)
  - [P1 Spec](https://github.com/240624-Java-Full-Stack-HTD-Infosys/.github/blob/main/profile/P1-spec.md)
+ - [React Exercises](https://github.com/240624-Java-Full-Stack-HTD-Infosys/Exercises/blob/main/README.md)
+   
 
 ### Environment
 We will use the following software during training, which will need to be installed locally on your machine. We will cover installation and setup of each together. We won't need all of these right away.
